@@ -1,11 +1,11 @@
-url: https://iamadezigner.github.io
-baseurl: /agency-jekyll-theme/
+url: "https://iamadezigner.github.io"
+baseurl: " "
+remote theme: y7kim/agency-jekyll-theme
 
 # Site settings
 title: W
 email: iamdezigner@naver.com
 description: "Seoul based UI, UI Designer | Jeong-Won Park"
-
 
 # Team names, titles and social links
 people:
